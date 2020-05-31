@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  font-family: 'Quicksand';
+  margin: 0;
+  padding: 0;
+  color: #333;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0 0 0.75rem 0;
+  color: #333;
+}
